@@ -9,4 +9,4 @@ Find some tags using the reference above to style some of the text on the page. 
 Make one of my favorite places to eat my own kitchen. Create another HTML page for my kitchen. Make sure to link the new page from the main page. Also make sure going back to main page is possible. This page should not open in a new window.
 
 <Hard Challenge>
-Add a contact form. Does not need to function. Only display, not function. Colelct user's names, email, and comment.
+Add a contact form. Does not need to function. Only display, not function. Collect user's names, email, and comment.
